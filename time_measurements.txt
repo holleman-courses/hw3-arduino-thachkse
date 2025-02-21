@@ -1,0 +1,22 @@
+About to process line: 1,2,3,4,5,6,7
+Read in  7 integers: Integers: [1, 2, 3, 4, 5, 6, 7, ]
+Sums to 28
+Test statement for timing.
+Predicted next sine value: -28
+Printing time (us): 262, Inference time (us): 9636
+
+About to process line: 
+1,5,6,7,8,9,8
+Read in  7 integers: Integers: [1, 5, 6, 7, 8, 9, 8, ]
+Sums to 44
+Test statement for timing.
+Predicted next sine value: -106
+Printing time (us): 268, Inference time (us): 9876
+
+About to process line: 
+9,2,1,3,0,5,6
+Read in  7 integers: Integers: [9, 2, 1, 3, 0, 5, 6, ]
+Sums to 26
+Test statement for timing.
+Predicted next sine value: -12
+Printing time (us): 258, Inference time (us): 9788
